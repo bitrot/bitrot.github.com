@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tips | bitrot]]></title>
   <link href="http://bitrot.github.com/blog/categories/tips/atom.xml" rel="self"/>
   <link href="http://bitrot.github.com/"/>
-  <updated>2012-10-25T10:48:42-04:00</updated>
+  <updated>2012-10-25T10:54:07-04:00</updated>
   <id>http://bitrot.github.com/</id>
   <author>
     <name><![CDATA[Ryan Macy & Eric Haughee]]></name>
@@ -24,7 +24,7 @@
 
 <p>Screenshot:</p>
 
-<p><img src="https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/407/vimtipexample_colonq_.png" alt="Picture" /></p>
+<p><img src="https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/407/vimtipexample_colonq_.png" alt="Command History Buffer" /></p>
 
 <p>Hitting <code>&lt;enter&gt;</code>, with your cursor on one of the lines, will invoke that command.  Hitting <code>&lt;enter&gt;</code> on the blank line at the bottom will close the buffer and take no further action.</p>
 
