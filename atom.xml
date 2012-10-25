@@ -4,7 +4,7 @@
   <title><![CDATA[bitrot]]></title>
   <link href="http://bitrot.github.com/atom.xml" rel="self"/>
   <link href="http://bitrot.github.com/"/>
-  <updated>2012-10-25T10:54:07-04:00</updated>
+  <updated>2012-10-25T11:08:23-04:00</updated>
   <id>http://bitrot.github.com/</id>
   <author>
     <name><![CDATA[Ryan Macy & Eric Haughee]]></name>
@@ -31,6 +31,20 @@
 <p>This history is, for the most part, a normal buffer and can be interacted with as such.  For example, closed with <code>:q</code> or resized with <code>&lt;Ctrl+W&gt;+</code>.</p>
 
 <p>Also, <a href="http://usevim.com/">usevim</a> is a phenomenal blog for Vim tips, tutorials, plugins, and scripts.</p>
+<div class='octopress-authorbox'>
+    <div class="author-pic">
+        <img src="http://www.gravatar.com/avatar/3c5077f4d0d10e3ffeb210f4d5e8c3f7" alt="Eric Haughee" />
+    </div>
+
+    <div class="author-about">
+        <h3>Eric Haughee</h3>
+        <p>Software Developer at JP Morgan Chase & Co.</p>
+        <ul class="author-links">
+            
+            
+        </ul>
+    </div>
+</div>
 ]]></content>
   </entry>
   
