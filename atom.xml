@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[bitrot]]></title>
+  <link href="http://bitrot.github.com/atom.xml" rel="self"/>
+  <link href="http://bitrot.github.com/"/>
+  <updated>2012-10-24T20:33:55-04:00</updated>
+  <id>http://bitrot.github.com/</id>
+  <author>
+    <name><![CDATA[Ryan Macy & Eric Haughee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
