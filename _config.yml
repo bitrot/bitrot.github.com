@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://bitrot.github.com/bitrot
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: bitrot
+subtitle: avoid erosion
+author: Ryan Macy & Eric Haughee
 simple_search: http://google.com/search
-description:
+description: bits be rotting
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
